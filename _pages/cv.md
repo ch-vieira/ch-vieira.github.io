@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my full CV [here](/files/docs/CV_Carlos.pdf).
+You can download my full CV [here](/files/CV_Carlos.pdf).
 
 ## Academic positions
 
@@ -17,7 +17,7 @@ You can download my full CV [here](/files/docs/CV_Carlos.pdf).
 ## Education
 
 - 2011 – 2015: **PhD**, [Campinas State University](https://www.unicamp.br/unicamp/english)
-	- Thesis: *[Exploring the role of entanglement in sets of behaviors from prepare-and-measure scenarios](/files/docs/PhdThesis.pdf)* supervised by Marcelo Terra Cunha (Unicamp) and Cristhiano Duarte (University of Leeds)
+	- Thesis: *[Exploring the role of entanglement in sets of behaviors from prepare-and-measure scenarios](/files/PhdThesis.pdf)* supervised by Marcelo Terra Cunha (Unicamp) and Cristhiano Duarte (University of Leeds)
 - 2017-2018: **MSc in Mathematics**, [Federal University of Minas Gerais (UFMG)](https://ufmg.br/international-visitors)
-	- MSc thesis: *[As cotas de Lieb-Robinson e suas Aplicações](/files/docs/MasterThesis.pdf)*, supervised by Raphael Drumond
+	- MSc thesis: *[As cotas de Lieb-Robinson e suas Aplicações](/files/MasterThesis.pdf)*, supervised by Raphael Drumond
 - 2013 – 2016: **BSc in Physics**, [Federal University of Minas Gerais (UFMG)](https://ufmg.br/international-visitors)
