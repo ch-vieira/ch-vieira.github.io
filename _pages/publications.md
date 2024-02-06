@@ -34,3 +34,14 @@ _Carlos Vieira; Adrian Solymos; Cristhiano Duarte; Zoltán Zimborás_
 * **Bell Non-Locality in Many-Body Quantum Systems with Exponential Decay of Correlations**  
 _Carlos H. S. Vieira; Cristhiano Duarte; Raphael C. Drumond; Marcelo Terra Cunha_  
  Braz J Phys 51, 1603–1616 (2021) [[journal](https://doi.org/10.1007/s13538-021-00998-1)] [[arXiv](https://arxiv.org/abs/2006.05537)]
+
+# Theses and other manuscripts
+
+* **Exploring the role of entanglement in sets of behaviors from prepare-and-measure scenarios**  
+PhD thesis, Department of Mathematics, Campinas State University (2022)  
+_Supervised by Marcelo Terra Cunha (Unicamp) and Cristhiano Duarte (University of Leeds)_  
+[[full text](/files/PhdThesis.pdf)]
+* **As cotas de Lieb-Robinson e suas Aplicações**  
+MSc thesis, Department of Mathematics, ederal University of Minas Gerais - UFMG (2018)  
+_Supervised by Raphael Drumond (UFMG)_  
+[[full text](/files/MasterThesis.pdf)]
