@@ -16,7 +16,7 @@ You can download my full CV [here](/files/CV_Carlos.pdf).
 
 ## Education
 
-- 2011 – 2015: **PhD**, [Campinas State University](https://www.unicamp.br/unicamp/english)
+- 2019 – 2022: **PhD**, [Campinas State University](https://www.unicamp.br/unicamp/english)
 	- Thesis: *[Exploring the role of entanglement in sets of behaviors from prepare-and-measure scenarios](/files/PhdThesis.pdf)* supervised by Marcelo Terra Cunha (Unicamp) and Cristhiano Duarte (University of Leeds)
 - 2017-2018: **MSc in Mathematics**, [Federal University of Minas Gerais (UFMG)](https://ufmg.br/international-visitors)
 	- MSc thesis: *[As cotas de Lieb-Robinson e suas Aplicações](/files/MasterThesis.pdf)*, supervised by Raphael Drumond
